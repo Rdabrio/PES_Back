@@ -1,0 +1,19 @@
+{
+  "name": "pes_back",
+  "version": "1.0.0",
+  "description": "Respositori de Backend de Cooltural",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rdabrio/PES.git"
+  },
+  "author": "Sergi Campuzano, Marc Turu i Adrià Espinoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rdabrio/PES/issues"
+  },
+  "homepage": "https://github.com/Rdabrio/PES#readme"
+}
